@@ -1,0 +1,9 @@
+* pcall
+
+A Common Lisp parallelization library
+
+|---------+------------------------------------------|
+| source  | git:https://github.com/marijnh/pcall.git |
+| commit  | 0b4b98a                                  |
+| systems | pcall pcall-queue                        |
+|---------+------------------------------------------|
